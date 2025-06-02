@@ -122,9 +122,9 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-📧 [your.email@example.com]  
-🌐 [LinkedIn/GitHub/Twitter Handle]
+**[Pritesh gurjar]**  
+📧 [pritesh.gurjar2018@gmail.com]  
+🌐 [www.linkedin.com/in/pritesh-gurjar-aa3b87175]
 
 ---
 
